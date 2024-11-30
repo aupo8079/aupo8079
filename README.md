@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aupo8079
-- 🌱 I’m currently learning.
+- 🌱 I’m currently learning programming.
 
 <!---
 aupo8079/aupo8079 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
