@@ -11,9 +11,9 @@ int main()
 
     for(i = 0;i < n;i++) {
         for(j = 0;j <= 1;j++) {
-        scanf("%c",&operator);
+        scanf(" %c",&operator);  //%c count whitespaces(space,tab,newline)
         }
-        scanf("%c%c",&operator,&c);
+        scanf("%c",&c);
         if(operator == '+') {
         x += 1;
         }
