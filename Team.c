@@ -2,9 +2,9 @@
 int main()
 {
     int i,j,n;
-    int ara[1000][3];
     int count = 0,total = 0;    
     scanf("%d",&n);
+    int ara[n][3];
 
     if (n >= 1 && n <= 1000) {
          for(i = 0;i <  n;i++) {
